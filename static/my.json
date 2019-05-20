@@ -1,0 +1,38 @@
+[
+  {
+    "tt": "vip",
+    "clo": "primary",
+    "adress": "static/img/vip.png",
+    "text": "会员中心"
+  },
+  {
+    "tt": "hot",
+    "col": "secondary",
+    "adress": "static/img/cardq.png",
+    "text": "我的卡券"
+  },
+  {
+    "tt": "find",
+    "col": "info",
+    "adress": "static/img/pingjia.png",
+    "text": "评价"
+  },
+  {
+    "tt": "find",
+    "col": "success",
+    "adress": "static/img/wallet.png",
+    "text": "我的钱包"
+  },
+  {
+    "tt": "find",
+    "col": "warning",
+    "adress": "static/img/Customerservice.png",
+    "text": "在线客服"
+  },
+  {
+    "tt": "find",
+    "clo": "error",
+    "adress": "static/img/about.png",
+    "text": "关于Htravel"
+  }
+]
